@@ -1,5 +1,5 @@
 #include <VirtualWire.h>
-int fsrAnalogPin = 0;
+int fsrAnalogPin=0;
 int fsrReading;
 int val;
 int value = 0;
