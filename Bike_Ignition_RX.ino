@@ -11,7 +11,6 @@ void setup()
     vw_setup(2000);
     vw_rx_start();
 }
-
 void loop()
 {
     uint8_t buf[VW_MAX_MESSAGE_LEN];
